@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title></title>
+<style>
+@media only screen and(min-width:600px){
+    .container{
+        width:600px;
+    }
+}
+
+@media only screen and (max-width:600px){
+    .container{
+        width:100%;
+    }
+.position-child{
+    padding-left: 20px !important;
+    position: absolute !important;
+    top: 25% !important;
+    right:0 !important;
+    left:0%;
+}
+.position-child h2{
+    font-size:24px !important;
+    width:100% !important;
+}
+.position-child p{
+    width:100% !important;
+}
+.last-one{
+    line-height:1.4
+}
+.columns{
+margin:0;
+width:98%;
+}
+.columns img{
+    max-width:100%;
+    height:auto;
+}
+
+
+
+}
+</style>
+</head>
+<body style="padding:0;margin:0;">
+<table cellspacing="0" border="0" cellpadding="0" width="100%">
+<tr>
+<td>
+<table class="container" cellspacing="0" border="0" cellpadding="0" width="600" align="center">
+
+
+
+<tr>
+    <td>
+    <table cellspacing="0" border="0" cellpadding="0" width="100%">
+        <tr>
+        <td class="first-table" style="position:relative;">
+    <img src="https://s15.postimg.cc/ayb48tk1n/Bape2.jpg" alt="Babe" style="max-width:100%;height:auto;filter: grayscale(65%);">
+        </td>
+        </tr>
+        <td class="position-child" style="position:absolute;top: 35%;right: 47%;font-family:'HelveticaNeue-Light','Helvetica Neue Light','Helvetica Neue',Helvetica, Arial, 'Lucida Grande', sans-serif;">
+                <h2 style="text-transform:uppercase;color:white;font-size:36px;width:300px;margin:0"> A Bape Clothing</h2>
+                <p style="color:white;margin: 0;width: 195px;font-weight: bold">The #1 japaness clothing brand</p>
+            </td>
+        </table>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="second-table" align="center" style="font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;">
+        <h2>What is<span style="color:tomato;font-size:20px;"> Bape?</span></h2>
+        <p style="text-transform:capitalize;font-size:15px;padding-bottom:20px;">A Bape Is A Japaness Clothing Brand That Consider As the #1 on the market now and that because of its amazing work that it does. </p>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <table cellspacing="0" border="0" cellpadding="0" width="100%">
+        <tr>
+            <td>
+        <img src="https://s15.postimg.cc/c8e1899ez/Splash.jpg" alt="Adv" style="max-width:100%;height:auto;">
+            </td>
+        </tr>
+    </table>
+    </td>
+</tr>
+
+
+
+<tr>
+<td>
+    <h2 style="text-align:center;padding-top:12px;"><span style="color:lightsalmon">New</span> Arrivals</h2>
+    <table class="columns" cellspacing="0" border="0" cellpadding="0" width="31.3333%" align="left" style="margin: 0 1%;">
+        <tr>
+            <td>
+                <img src="https://s15.postimg.cc/v1zu572h7/sharon-garcia-456779-unsplash.jpg" alt="Clothes Posing" style="max-width:100%;height:auto">
+            </td>
+        </tr>
+    </table>
+
+    <table class="columns" cellspacing="0" border="0" cellpadding="0" width="31.3333%" align="left" style="margin: 0 1%;">
+            <tr>
+                <td>
+                    <img src="https://s15.postimg.cc/bf1ffg0rf/posing2.jpg" alt="Clothes Posing" style="max-width:100%;height:auto">
+                </td>
+            </tr>
+        </table>
+
+        <table class="columns" cellspacing="0" border="0" cellpadding="0" width="31.3333%" align="left" style="margin: 0 1%;">
+                <tr>
+                    <td>
+                        <img src="https://s15.postimg.cc/7mhwzvdl7/posing3.jpg" alt="Clothes Posing" style="max-width:100%;height:auto">
+                    </td>
+                </tr>
+            </table>
+</td>
+</tr>
+
+<tr>
+    <td align="center" style="padding-top:25px;padding-bottom:45px;">
+        <h2 style="font-size:25px;">To Get A 50% Promotion :</h2>
+        <button href="#" style="padding:10px 16px;font-size:16px;border:0;background-color:lightseagreen;color:white;">50% Promotion</button>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <table cellspacing="0" border="0" cellpadding="0" width="100%" align="center" style="background-color:lightcyan;padding:30px 0;">
+    <tr>
+        <td>
+<table cellspacing="0" border="0" cellpadding="0" align="center">
+<tr>
+    <td>
+        <a href="#" target="_blank"><img style="padding: 0 8px;" src="https://s15.postimg.cc/xa8x27qvf/facebook_icon.png" alt="Facebook Logo"></a>
+        <a href="#" target="_blank"><img style="padding: 0 8px;" src="https://s15.postimg.cc/n06i2z8pn/twitter_icon.png" alt="Twitter Logo"></a>
+        <a href="#" target="_blank"><img style="padding: 0 8px;" src="https://s15.postimg.cc/fwymndazv/youtube_icon.png" alt="Youtube Logo"></a>
+    </td>
+</tr>
+</table>
+
+        </td>
+    </tr>
+    <tr>
+    <td align="center" style="padding:15px 0;">
+    <span>Contact | <a href="#" target="_blank" style="text-decoration:none;color:black;">Unsubscribe</a></span>
+    </td>
+    </tr>
+    <tr>
+    <td align="center">
+        <p class="last-one" style="margin:0;padding:0 50px;">This A Test For A Html Email Template,I Hope U like It And I Hope I Get Better And Better In The Near Future.</p>
+    </td>
+</tr>
+        </table>
+    </td>
+</tr>
+
+
+
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
